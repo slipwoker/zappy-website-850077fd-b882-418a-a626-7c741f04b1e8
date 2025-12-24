@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# טלי אורן — Generative Engine Optimization Map
+
+> A תיאטרון ובידור business.
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://example.com
+https://tali-oren.zappy5.app
 גלו את עולם המשחק הדרמטי של טלי אורן - שחקנית תיאטרון מחזות זמר מובילה בישראל. צפו בתיק עבודות, קראו ביוגרפיה והתחברו לעולם התיאטרון האמנותי.
 
 ### תיק עבודות
-https://example.com/portfolio
+https://tali-oren.zappy5.app/portfolio
 תיק עבודות מקיף של טלי אורן שחקנית תיאטרון מחזות זמר ישראל. צפו בתפקידים מרכזיים, הפקות מרשימות והופעות דרמטיות שהותירו חותם בתיאטרון הישראלי.
 
 ### אודות
-https://example.com/about
+https://tali-oren.zappy5.app/about
 הכירו את טלי אורן שחקנית תיאטרון מחזות זמר ישראל מובילה. קראו על המסע האמנותי, ההשראה והמסירות שהפכו את טלי לאחת השחקניות המוערכות בתיאטרון הישראלי.
 
 ### צור קשר
-https://example.com/contact
+https://tali-oren.zappy5.app/contact
 צרו קשר עם טלי אורן שחקנית תיאטרון מחזות זמר ישראל. מעוניינים בשיתוף פעולה, הצעות לתפקידים או פרטים נוספים? נשמח לשמוע מכם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://tali-oren.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://tali-oren.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://tali-oren.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About טלי אורן
+טלי אורן is a business in the תיאטרון ובידור industry.
+
+## Target Audience
+- חובבי תיאטרון
+
+## Industry
+תיאטרון ובידור
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://tali-oren.zappy5.app/sitemap.xml
+- **Robots.txt**: https://tali-oren.zappy5.app/robots.txt
