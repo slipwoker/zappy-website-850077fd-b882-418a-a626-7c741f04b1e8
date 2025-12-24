@@ -1,0 +1,57 @@
+# טלי אורן — Generative Engine Optimization Map
+
+> A תיאטרון ובידור business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-850077fd.zappy5.app
+גלו את עולם המשחק הדרמטי של טלי אורן - שחקנית תיאטרון מחזות זמר מובילה בישראל. צפו בתיק עבודות, קראו ביוגרפיה והתחברו לעולם התיאטרון האמנותי.
+
+### תיק עבודות
+https://-850077fd.zappy5.app/portfolio
+תיק עבודות מקיף של טלי אורן שחקנית תיאטרון מחזות זמר ישראל. צפו בתפקידים מרכזיים, הפקות מרשימות והופעות דרמטיות שהותירו חותם בתיאטרון הישראלי.
+
+### אודות
+https://-850077fd.zappy5.app/about
+הכירו את טלי אורן שחקנית תיאטרון מחזות זמר ישראל מובילה. קראו על המסע האמנותי, ההשראה והמסירות שהפכו את טלי לאחת השחקניות המוערכות בתיאטרון הישראלי.
+
+### צור קשר
+https://-850077fd.zappy5.app/contact
+צרו קשר עם טלי אורן שחקנית תיאטרון מחזות זמר ישראל. מעוניינים בשיתוף פעולה, הצעות לתפקידים או פרטים נוספים? נשמח לשמוע מכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-850077fd.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-850077fd.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-850077fd.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About טלי אורן
+טלי אורן is a business in the תיאטרון ובידור industry.
+
+## Target Audience
+- חובבי תיאטרון
+
+## Industry
+תיאטרון ובידור
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-850077fd.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-850077fd.zappy5.app/robots.txt
