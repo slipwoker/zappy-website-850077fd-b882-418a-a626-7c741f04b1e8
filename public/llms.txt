@@ -1,6 +1,4 @@
-# טלי אורן — Generative Engine Optimization Map
-
-> A תיאטרון ובידור business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,15 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About טלי אורן
-טלי אורן is a business in the תיאטרון ובידור industry.
-
-## Target Audience
-- חובבי תיאטרון
-
-## Industry
-תיאטרון ובידור
-
+## About Business
 ---
 
 # Additional Resources
