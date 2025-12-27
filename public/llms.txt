@@ -1,57 +1,47 @@
-# טלי אורן — Generative Engine Optimization Map
-
-> A תיאטרון ובידור business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://zappy-site-850077fd-b882-418a-a626.onrender.com
+https://tali-oren.zappy5.app
 גלו את עולם המשחק הדרמטי של טלי אורן - שחקנית תיאטרון מחזות זמר מובילה בישראל. צפו בתיק עבודות, קראו ביוגרפיה והתחברו לעולם התיאטרון האמנותי.
 
 ### תיק עבודות
-https://zappy-site-850077fd-b882-418a-a626.onrender.com/portfolio
+https://tali-oren.zappy5.app/portfolio
 תיק עבודות מקיף של טלי אורן שחקנית תיאטרון מחזות זמר ישראל. צפו בתפקידים מרכזיים, הפקות מרשימות והופעות דרמטיות שהותירו חותם בתיאטרון הישראלי.
 
 ### אודות
-https://zappy-site-850077fd-b882-418a-a626.onrender.com/about
+https://tali-oren.zappy5.app/about
 הכירו את טלי אורן שחקנית תיאטרון מחזות זמר ישראל מובילה. קראו על המסע האמנותי, ההשראה והמסירות שהפכו את טלי לאחת השחקניות המוערכות בתיאטרון הישראלי.
 
 ### צור קשר
-https://zappy-site-850077fd-b882-418a-a626.onrender.com/contact
+https://tali-oren.zappy5.app/contact
 צרו קשר עם טלי אורן שחקנית תיאטרון מחזות זמר ישראל. מעוניינים בשיתוף פעולה, הצעות לתפקידים או פרטים נוספים? נשמח לשמוע מכם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://zappy-site-850077fd-b882-418a-a626.onrender.com/privacy
+https://tali-oren.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://zappy-site-850077fd-b882-418a-a626.onrender.com/terms
+https://tali-oren.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://zappy-site-850077fd-b882-418a-a626.onrender.com/accessibility
+https://tali-oren.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About טלי אורן
-טלי אורן is a business in the תיאטרון ובידור industry.
-
-## Target Audience
-- חובבי תיאטרון
-
-## Industry
-תיאטרון ובידור
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://zappy-site-850077fd-b882-418a-a626.onrender.com/sitemap.xml
-- **Robots.txt**: https://zappy-site-850077fd-b882-418a-a626.onrender.com/robots.txt
+- **Sitemap**: https://tali-oren.zappy5.app/sitemap.xml
+- **Robots.txt**: https://tali-oren.zappy5.app/robots.txt
